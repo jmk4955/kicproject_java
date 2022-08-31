@@ -23,7 +23,7 @@
             </div>
           </div>
           <a href="${ pageContext.request.contextPath }/board/adoptBoardForm" class="btn white">
-            글쓰기
+            글쓰기?
           </a>
         </div>
       </div>
